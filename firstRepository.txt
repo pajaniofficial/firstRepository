@@ -1,0 +1,1 @@
+This is a text file for the repository that I will connect and push to github.com. This is only for testing purposes and to see how it functions.
